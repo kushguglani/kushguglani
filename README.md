@@ -2,7 +2,7 @@
 - 👀 I’m interested in js developemnt 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on js
-- 📫 How to reach me guglani.tech@gmail.com
+- 📫 How to reach me guglani.tech@gmail.com Portfolio : guglani.tech
 
 <!---
 kushguglani/kushguglani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
