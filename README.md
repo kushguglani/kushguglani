@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushguglani
 - 👀 I’m interested in js developemnt 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently working in Oracle as software engineer 
 - 💞️ I’m looking to collaborate on js
 - 📫 How to reach me guglani.tech@gmail.com Portfolio : [guglani.tech](https://guglani.tech/)
 
